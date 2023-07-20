@@ -1,0 +1,274 @@
+
+
+.li-item{
+font-family: 'Montserrat';
+    font-family: 'Poppins';
+    font-size: 18px;
+    font-weight: 400;
+    display: inline-block;
+    text-transform:capitalize;
+    margin-left: 20px;
+    color: #37393F;
+    padding-top: 73px;
+}
+.container-header{
+    padding: 30px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+}
+.header-wrapper{
+    height: 65px;
+}
+.navigation{
+display: inline-block;
+padding-left: 25px;
+vertical-align: middle;
+}
+.logo{
+vertical-align: middle;
+padding-top: 80px;
+}
+.container-header{
+display: flex;
+justify-content: center;
+
+}
+.consulting-btn{
+    padding: 21px 35px 22px 35px;
+    border: none;
+    background-color: #6b77e5;
+    color: #FFFFFF;
+    font-family:'Cabin Condensed';
+    text-transform:capitalize;
+}
+.Procces{
+font-family: 'Inter';
+font-size: 18px;
+font-weight: 500;
+text-align: center;
+padding-top: 180px;
+}
+.text-2{
+font-family: 'Poppins';
+font-size: 40px;
+font-weight: 700;
+text-align: center;
+padding-top: 10px;
+}
+
+.box{
+width:286px;
+height: 328px;
+background-color: #F4F4F4;
+margin-top: 41px;
+margin-left: 33px;
+display: inline-block;
+}
+.box-div{
+display: flex;
+justify-content: center;
+}
+.content-header{
+ font-family: 'Poppins';
+ font-size: 25px;
+ font-weight: 600;
+ text-align: center;
+ padding-top: 53px;
+}
+.discription{
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 39px;
+    line-height: 25px;
+}
+.Testimonials{
+color:#6B77E5;
+font-family: 'Inter';
+font-size: 18px;
+font-weight: 600;
+padding-left: 94px;
+line-height: 28px;
+}
+.circle{
+width: 72px;
+height: 72px;
+background-color: #40DDB6;
+border-radius: 50%;
+
+}
+.calendar-image{
+    position: absolute;
+    left:120px;
+    top:22px;
+}
+.circle-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding-top: 8px;
+}
+.Procces-1{
+    font-family: 'Poppins';
+    font-size: 25px;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 53px;
+}
+.circle-1{
+    width: 72px;
+    height: 72px;
+    background-color:#6B77E5;
+    border-radius: 50%;
+    
+    }
+    .procces-2{
+        font-family: 'Poppins';
+        font-size: 25px;
+        font-weight: 600;
+        text-align: center;
+        padding-top: 53px;
+    }
+    .image-block{
+    position: relative;
+        margin-top: 40px;
+        width: 100%}
+    .box-text2{
+        font-family: 'Inter';
+        font-size: 18px;
+        font-weight: 500;
+        padding-left: 94px;
+        position: absolute;
+        top: 137px;
+        left:546px;
+    }
+    .text-3{
+        font-family: 'Poppins';
+        font-size: 40px;
+        font-weight: 700;
+        text-align: center;
+        padding-top: 30px;
+        position: absolute;
+        top:143px;
+        left:523px;
+
+    }
+    .description-1{
+        position: absolute;
+        top:230px;
+        left:494px;
+        text-align: center;
+    }
+    .play-buttom{
+        position: absolute;
+        top:272px;
+        left:653px;
+    }
+  .teams {
+            display: flex;
+            justify-content: space-between;
+            padding-top: 20px;
+            padding-left: 66px;
+            width: 1180px;
+           
+        }
+.image-box{
+    width: 300px;
+    position: relative;
+    display: inline-block;
+    text-align: center;   
+     margin: 10px;
+}
+
+
+.team-description{
+    background-color: #FFFFFF;
+    width: 100%;
+    height: 114px;
+    position: absolute;
+    bottom: 30px;
+    left:50px;
+}
+.team-name{
+    font-family: 'Poppins';
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 25px;
+    color: #37393F;
+}
+.profession{
+    font-family: 'Inter';
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 20px;
+    color: #7D7D7D;
+}
+.team-description1{
+    background-color: #FFFFFF;
+    width: 100%;
+    height: 114px;
+    position: absolute;
+    bottom: 30px;
+    left:50px;
+    
+}
+.image-box1{
+    width: 300px;
+    position: relative;
+    display: inline-block;
+    text-align: center;   
+     margin: 10px;
+
+}
+.team-name1{
+    font-family: 'Poppins';
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 25px;
+    color: #37393F;
+}
+.profession1{
+    font-family: 'Inter';
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 20px;
+    color: #7D7D7D;
+
+}
+.image-box2{
+    width: 300px;
+    position: relative;
+    display: inline-block;
+    text-align: center;   
+     margin: 10px;
+}
+
+.team-description2{
+    background-color: #FFFFFF;
+    width: 100%;
+    height: 114px;
+    position: absolute;
+    bottom: 30px;
+    left:50px;
+      
+}
+.team-name2{
+    font-family: 'Poppins';
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 25px;
+    color: #37393F;
+}
+.profession2{
+    font-family: 'Inter';
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 20px;
+    color: #7D7D7D;
+
+}
